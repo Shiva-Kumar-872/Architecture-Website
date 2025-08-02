@@ -1,0 +1,8 @@
+{
+    "workbench.editor.autoLockGroups": {
+        "default": true
+    },
+    "workbench.editor.centeredLayoutFixedWidth": false,
+    "workbench.editor.centeredLayoutAutoResize": true,
+    "workbench.editor.closeOnFileDelete": true
+}
