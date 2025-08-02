@@ -21,22 +21,23 @@ A modern, responsive architecture portfolio website showcasing design projects, 
 ## 📸 Website Screenshots
 
 ### Desktop View
-![Desktop Homepage](screenshots/desktop-home.png)
-*Homepage showcasing featured projects and services*
-
-![Desktop Portfolio](screenshots/desktop-portfolio.png)
-*Portfolio gallery with project details*
+![](https://github.com/Shiva-Kumar-872/Architecture-Website/blob/Architecture-Website/Screenshot%202025-08-02%20at%2009.21.48.png?raw=true)
+![](https://github.com/Shiva-Kumar-872/Architecture-Website/blob/Architecture-Website/Screenshot%202025-08-02%20at%2009.22.05.png?raw=true)
+[![](https://github.com/Shiva-Kumar-872/Architecture-Website/blob/Architecture-Website/Screenshot%202025-08-02%20at%2009.22.26.png?raw=true)
+[![](https://github.com/Shiva-Kumar-872/Architecture-Website/blob/Architecture-Website/Screenshot%202025-08-02%20at%2009.22.43.png?raw=true)
+[![](https://github.com/Shiva-Kumar-872/Architecture-Website/blob/Architecture-Website/Screenshot%202025-08-02%20at%2009.22.51.png?raw=true)
 
 ### Mobile View
-![Mobile Homepage](screenshots/mobile-home.png)
-*Responsive mobile homepage*
 
-![Mobile Navigation](screenshots/mobile-nav.png)
-*Mobile-friendly navigation menu*
+![](https://github.com/Shiva-Kumar-872/Architecture-Website/blob/Architecture-Website/Screenshot%202025-08-02%20at%2009.21.48.png?raw=true)
+![](https://github.com/Shiva-Kumar-872/Architecture-Website/blob/Architecture-Website/Screenshot%202025-08-02%20at%2009.22.05.png?raw=true)
+[![](https://github.com/Shiva-Kumar-872/Architecture-Website/blob/Architecture-Website/Screenshot%202025-08-02%20at%2009.22.26.png?raw=true)
+[![](https://github.com/Shiva-Kumar-872/Architecture-Website/blob/Architecture-Website/Screenshot%202025-08-02%20at%2009.22.43.png?raw=true)
+[![](https://github.com/Shiva-Kumar-872/Architecture-Website/blob/Architecture-Website/Screenshot%202025-08-02%20at%2009.22.51.png?raw=true)
 
-## 🚀 Live Demo
 
-[View Live Website](https://your-username.github.io/architecture-website)
+
+
 
 ## 📁 Project Structure
 
@@ -55,7 +56,7 @@ Architecture-Website/
 
 1. **Homepage** - Hero section with featured projects
 2. **About** - Company information and design philosophy
-3. **Portfolio** - Comprehensive project showcase
+3. **Portfolio link** - Comprehensive project showcase
 4. **Services** - Architecture and design services offered
 5. **Contact** - Get in touch information and forms
 
