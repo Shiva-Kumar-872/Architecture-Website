@@ -112,10 +112,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
+**Shiva Kumar**
+- GitHub: [@your-username](https://github.com/Shiva-Kumar-872)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/shiva-kumar-7053a429b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bi%2FTCQ13aQ9qgsM7enFPL5Q%3D%3D)
+- Email: shivak24303@example.com
 
 ## 🙏 Acknowledgments
 
