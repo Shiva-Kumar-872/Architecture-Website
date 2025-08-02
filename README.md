@@ -23,17 +23,21 @@ A modern, responsive architecture portfolio website showcasing design projects, 
 ### Desktop View
 ![](https://github.com/Shiva-Kumar-872/Architecture-Website/blob/Architecture-Website/Screenshot%202025-08-02%20at%2009.21.48.png?raw=true)
 ![](https://github.com/Shiva-Kumar-872/Architecture-Website/blob/Architecture-Website/Screenshot%202025-08-02%20at%2009.22.05.png?raw=true)
-[![](https://github.com/Shiva-Kumar-872/Architecture-Website/blob/Architecture-Website/Screenshot%202025-08-02%20at%2009.22.26.png?raw=true)
-[![](https://github.com/Shiva-Kumar-872/Architecture-Website/blob/Architecture-Website/Screenshot%202025-08-02%20at%2009.22.43.png?raw=true)
-[![](https://github.com/Shiva-Kumar-872/Architecture-Website/blob/Architecture-Website/Screenshot%202025-08-02%20at%2009.22.51.png?raw=true)
+![](https://github.com/Shiva-Kumar-872/Architecture-Website/blob/Architecture-Website/Screenshot%202025-08-02%20at%2009.22.26.png?raw=true)
+![](https://github.com/Shiva-Kumar-872/Architecture-Website/blob/Architecture-Website/Screenshot%202025-08-02%20at%2009.22.43.png?raw=true)
+![](https://github.com/Shiva-Kumar-872/Architecture-Website/blob/Architecture-Website/Screenshot%202025-08-02%20at%2009.22.51.png?raw=true)
 
 ### Mobile View
 
-![](https://github.com/Shiva-Kumar-872/Architecture-Website/blob/Architecture-Website/Screenshot%202025-08-02%20at%2009.21.48.png?raw=true)
-![](https://github.com/Shiva-Kumar-872/Architecture-Website/blob/Architecture-Website/Screenshot%202025-08-02%20at%2009.22.05.png?raw=true)
-[![](https://github.com/Shiva-Kumar-872/Architecture-Website/blob/Architecture-Website/Screenshot%202025-08-02%20at%2009.22.26.png?raw=true)
-[![](https://github.com/Shiva-Kumar-872/Architecture-Website/blob/Architecture-Website/Screenshot%202025-08-02%20at%2009.22.43.png?raw=true)
-[![](https://github.com/Shiva-Kumar-872/Architecture-Website/blob/Architecture-Website/Screenshot%202025-08-02%20at%2009.22.51.png?raw=true)
+![](https://github.com/Shiva-Kumar-872/Architecture-Website/blob/Architecture-Website/Screenshot%202025-08-02%20at%2009.38.52.png?raw=true)
+![](https://github.com/Shiva-Kumar-872/Architecture-Website/blob/Architecture-Website/Screenshot%202025-08-02%20at%2009.38.59.png?raw=true)
+![](https://github.com/Shiva-Kumar-872/Architecture-Website/blob/Architecture-Website/Screenshot%202025-08-02%20at%2009.39.08.png?raw=true)
+![](https://github.com/Shiva-Kumar-872/Architecture-Website/blob/Architecture-Website/Screenshot%202025-08-02%20at%2009.39.14.png?raw=true)
+![](https://github.com/Shiva-Kumar-872/Architecture-Website/blob/Architecture-Website/Screenshot%202025-08-02%20at%2009.39.23.png?raw=true)
+![](https://github.com/Shiva-Kumar-872/Architecture-Website/blob/Architecture-Website/Screenshot%202025-08-02%20at%2009.39.23.png?raw=true)
+![](https://github.com/Shiva-Kumar-872/Architecture-Website/blob/Architecture-Website/Screenshot%202025-08-02%20at%2009.39.34.png?raw=true)
+![](https://github.com/Shiva-Kumar-872/Architecture-Website/blob/Architecture-Website/Screenshot%202025-08-02%20at%2009.39.44.png?raw=true)
+![](https://github.com/Shiva-Kumar-872/Architecture-Website/blob/Architecture-Website/Screenshot%202025-08-02%20at%2009.39.58.png?raw=true)
 
 
 
